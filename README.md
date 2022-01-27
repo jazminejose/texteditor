@@ -12,7 +12,9 @@
 - [Questions](#Questions)
 
 ## Installation
-```npm i``` to install the packages<br>
+```npm i``` to install the packages. <br>
+```npm i``` inside `client` folder<br>
+```npm i ``` inside server.js` file<br>
 ```npm run start``` to start the application
 
 ## Usage
@@ -29,10 +31,9 @@ None
 
 ## Deployed Link
 
-<a href="/"> Go To Deployed Heroku Page</a>
+<a href="https://floating-refuge-04267.herokuapp.com/"> Go To Deployed Heroku Page</a>
 
-<img src="/">
-
+<img src="https://user-images.githubusercontent.com/92974218/151315509-a87be53a-564f-416c-a7d9-8e31c3040c74.png">
 
 ## Questions
 - GitHub: [https://github.com/jazminejose](https://github.com/jazminejose)
